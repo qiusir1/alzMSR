@@ -2,7 +2,7 @@
 
 ## Overview
 
-AD-associated cell type-specific Metabolic Signaling Entropy (alzMSR) is a Python package designed for the analysis of single-cell RNA sequencing data with a focus on entropy calculations within metabolic gene networks. The package offers tools for data preprocessing, network analysis, and entropy computation.
+AD-associated cell type-specific Metabolic Signaling Entropy (alzMSR) is a Python package designed for the analysis of single-cell RNA sequencing data with a focus on entropy calculations within metabolic gene networks. The package offers tools for data preprocessing, network analysis, and entropy computation. Reference: Cell type-specific master metabolic regulators of Alzheimer’s disease. Yunguang Qiu, Yuan Hou, Liam Wetzel, Jessica Z.K. Caldwell, Xiongwei Zhu, Andrew A. Pieper, Tian Liu, Feixiong Cheng. bioRxiv 2025.07.11.664443; doi: https://doi.org/10.1101/2025.07.11.664443
 
 ## Installation
 
